@@ -22,6 +22,8 @@ To achieve the best results, Company News follows a structured, step-by-step pro
 [Manufacturing](https://github.com/sourceduty/Manufacturing)
 <br>
 [Sourceduty GPT](https://chatgpt.com/g/g-MG4CqF034-sourceduty)
+<br>
+[Sourceduty News](https://chatgpt.com/g/g-l6HwfWCdR-sourceduty-news)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
